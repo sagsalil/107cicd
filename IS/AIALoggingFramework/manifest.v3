@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Values version="2.0">
+  <value name="enabled">yes</value>
+  <value name="system_package">no</value>
+  <value name="version">1.2</value>
+  <null name="startup_services"/>
+  <null name="shutdown_services"/>
+  <null name="replication_services"/>
+  <record name="requires" javaclass="com.wm.util.Values">
+  </record>
+  <value name="listACL">Default</value>
+  <value name="webappLoad">yes</value>
+  <value name="name">AIALoggingFramework</value>
+  <value name="build"></value>
+  <null name="description"/>
+  <value name="time">2016-03-02 15:22:37 AEDT</value>
+  <value name="jvm_version">1.8.0_51</value>
+  <value name="publisher">melaidlesb01</value>
+  <value name="patch_nums"></value>
+</Values>
